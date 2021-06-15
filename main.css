@@ -8,6 +8,6 @@
 }
 .progress-bar {
  height: 8px;
- background: #FF3131;
+ background: linear-gradient(90deg, #349c81 0%, #3385a4 33%, #29789c 68%, #29419c 100%);
  width: 0%;
 }
